@@ -1,0 +1,25 @@
+body {
+	max-width: 100%;
+	border:red solid 5px;
+}
+
+.top {
+	border: red solid 2px;
+	padding:8px;
+
+	
+}
+
+.left {
+	border:red solid 2px;
+
+}
+
+.right {
+	
+
+}
+
+.bottom{
+
+}
