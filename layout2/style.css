@@ -1,25 +1,28 @@
-body {
-	max-width: 100%;
-	border:red solid 5px;
-}
 
-.top {
-	border: red solid 2px;
-	padding:8px;
-
-	
+div {
+  border: 5px solid red;
+  padding: 5px;
+  box-sizing: border-box;
 }
 
 .left {
-	border:red solid 2px;
+  float: left;
+  width: 25%;
+}
 
+.center {
+  float: left;
+  width: 50%;
 }
 
 .right {
-	
-
+  float:left;
+  width:25%;
 }
 
-.bottom{
-
+.bottom {
+  clear: both;
 }
+
+
+
